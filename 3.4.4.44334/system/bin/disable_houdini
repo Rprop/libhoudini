@@ -1,0 +1,19 @@
+#!/system/bin/sh
+
+IFS=:
+entries=arm
+
+for e in $entries; do
+	if [ ! -e /proc/sys/fs/binfmt_misc/$e ]; then
+		echo "$e is not enabled"
+	else
+		echo -1 > /proc/sys/fs/binfmt_misc/$e 
+		if [ ! -e /proc/sys/fs/binfmt_misc/$e ]; then
+			echo "$e removed"
+		else
+			echo "$e removal failed !!!"
+		fi
+	fi
+done
+
+exit 0

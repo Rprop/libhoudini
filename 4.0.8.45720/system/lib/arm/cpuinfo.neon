@@ -1,0 +1,12 @@
+Processor	: ARMv7 processor rev 1 (v7l)
+BogoMIPS	: 1500.0
+Features	: vfp swp half thumb fastmult edsp vfpv3 
+CPU implementer	: 0x69
+CPU architecture: 7
+CPU variant	: 0x1
+CPU part	: 0x001
+CPU revision	: 1
+
+Hardware	: placeholder
+Revision	: 0001
+Serial		: 0000000000000001
