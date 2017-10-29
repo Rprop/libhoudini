@@ -11,4 +11,9 @@ http://dl.android-x86.org/houdini/7_z/houdini.sfs
 http://dl.android-x86.org/houdini/8_x/houdini.sfs   
 http://dl.android-x86.org/houdini/8_y/houdini.sfs   
 http://dl.android-x86.org/houdini/8_z/houdini.sfs   
+baidu cloud mirror: http://pan.baidu.com/s/1dFMtyP7 密码：nvg7   
+
+# links
+https://www.fosshub.com/Android-x86.html
+https://www.openthos.org/
 
