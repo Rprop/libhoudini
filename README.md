@@ -14,6 +14,7 @@ http://dl.android-x86.org/houdini/8_z/houdini.sfs
 baidu cloud mirror: http://pan.baidu.com/s/1dFMtyP7 密码：nvg7   
 
 # links
+https://osdn.net/projects/android-x86/scm/git/vendor-intel-houdini/   
 https://www.fosshub.com/Android-x86.html   
 https://www.openthos.org/   
 
